@@ -20,7 +20,8 @@ export default {
         PoppinsExtraBold : ["PoppinsExtraBold"]
       },
       screens: {
-        "tablet": "576px"
+        "tablet": "576px",
+        "laptop" : "700px"
       }
     },
   },

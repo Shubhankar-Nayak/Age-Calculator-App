@@ -75,7 +75,7 @@ function App() {
 
   return (
     <div className="w-[100%] h-[100vh] flex justify-center items-center">
-      <div className="w-[80%] h-[60%] tablet:w-[60%] tablet:h-[65%] flex flex-col px-5 py-10 bg-white rounded-t-2xl rounded-bl-2xl rounded-br-[100px]">
+      <div className="w-[80%] h-[60%] tablet:w-[60%] tablet:h-[65%] laptop:w-[40%] flex flex-col px-5 py-10 bg-white rounded-t-2xl rounded-bl-2xl rounded-br-[100px]">
         <div className="w-[100%] flex flex-row gap-4 tablet:gap-6">
           {/* Day Input */}
           <div className="w-[29%] tablet:w-[20%] font-Poppins">
